@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahulmondalit
+- 👋 Hi, I’m @Rahul
 - 👀 I’m interested in ...Learning/Programming
 - 🌱 I’m currently learning ...Asp.net core
 - 💞️ I’m looking to collaborate on ....netcore projects/Python Projects
